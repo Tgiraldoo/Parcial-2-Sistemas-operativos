@@ -1,4 +1,4 @@
-# Reto 1: Sistema de Chat con Colas de Mensajes (System V)
+# Reto 1: Sistema de Chat con Colas de Mensajes
 
 Una implementación de un sistema de chat multi-sala en C, diseñado para sistemas operativos Linux.
 
